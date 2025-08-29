@@ -1,0 +1,12 @@
+.tickets{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.mainDiv{
+     border: 2px solid black;
+    border-radius: 10px;
+     width: 300px;
+     height: 150px;
+}

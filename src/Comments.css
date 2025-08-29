@@ -1,0 +1,10 @@
+.comment{
+    border:2px solid blue;
+    border-radius: 30px;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 2px 3px 9px black;
+}
+h1{
+    color: rgb(1, 1, 66);
+}
